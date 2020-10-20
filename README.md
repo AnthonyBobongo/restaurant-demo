@@ -1,12 +1,10 @@
-<!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://www.gatsbyjs.com">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby's default starter
-</h1>
+<img width="1680" alt="Screen Shot 2020-10-20 at 7 32 17 PM" src="https://user-images.githubusercontent.com/29877236/96655747-35ea1280-130c-11eb-93a6-5d1245f23065.png">
+
+<img width="521" alt="Screen Shot 2020-10-20 at 7 37 25 PM" src="https://user-images.githubusercontent.com/29877236/96655759-3d112080-130c-11eb-9282-9489e4ecaba6.png">
+
+<img width="1672" alt="Screen Shot 2020-10-20 at 7 32 30 PM" src="https://user-images.githubusercontent.com/29877236/96655788-5023f080-130c-11eb-8da3-f8d216d747ae.png">
+
+
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
